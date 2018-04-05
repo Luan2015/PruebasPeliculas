@@ -3,7 +3,7 @@
 	Plugin Name: Movie
 	Description: Declares a plugin that will create a custom post type displaying movie.
 	Version: 1.0
-	Author: LuisCortes
+	Author: LuisCortes 2018-04-04
 	*/
 
 	function create_movie() {
